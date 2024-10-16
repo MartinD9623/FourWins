@@ -1,4 +1,4 @@
-# Four in a Row Game
+# Connect Four Game
 
 Connect Four is a classic two-player game where players take turns dropping their discs into a vertical grid, with the objective of connecting four of their discs in a row—either horizontally, vertically, or diagonally.
 
